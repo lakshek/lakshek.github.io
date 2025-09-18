@@ -14,7 +14,7 @@ My name is Shekhar.
 
 - I merge research-backed insights with technical precision to design solutions that are practical, innovative, and transformative.
 
-#### **Core Strengths:**
+### Core Strengths:
 
 - Full-stack software development (React, Java, Spring Boot, MySQL) that delivers functional, user-focused outcomes.
 
@@ -22,4 +22,4 @@ My name is Shekhar.
 
 - Guided programs and organizations through strategic planning, systems design, and community engagement.
 
-#### Available now to _strategize, design, and build_ meaningful, scalable solutions that support growth and learning across communities.
+### Available now to _strategize, design, and build_ meaningful, scalable solutions that support growth and learning across communities.

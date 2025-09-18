@@ -10,4 +10,4 @@ permalink: /contact/
 
 I'd love to connect! Whether you're looking for a designer, developer, or strategist, I'm open to opportunities for collaboration and contribution.
 
-#### [Connect with Shekhar](mailto:email2shek@gmail.com)
+[Connect with Shekhar _(pronounced "Shay-kur")_](mailto:email2shek@gmail.com){: .btn}

@@ -18,5 +18,5 @@ permalink: /resume/
 
 - Experience in designing sustainable initiatives, mentoring teams, and guiding organizations to achieve measurable impact.
 
-  [![Download Résumé](/assets/images/resume.jpg)](/resume/Shekhar-résumé.pdf)
+  [Download Résumé](/resume/Shekhar-résumé.pdf){: .btn}
   
